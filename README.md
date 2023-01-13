@@ -1,4 +1,4 @@
-# TP-Todolit
+# TP-Todolist
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/93181410/166483696-8a4daae2-d6e3-4a61-b425-f5118cc6e085.png" width="700"/>
